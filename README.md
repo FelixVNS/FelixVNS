@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelixVNS
+- 👋 Hi, I’m @FelixHorizoND
 - 👀 I’m interested in frontend development an game development.
 - 🌱 I’m currently learning game development, to develop my first game with my coding studio.
 - 📫 How to reach me: send me an e-mail to felix.b.thielen@web.de
